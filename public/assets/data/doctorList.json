@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Isabella Stone",
+    "specialty": "Ophthalmologist",
+    "workingTime": "Monday-Friday, 08:00 AM-10:00 PM",
+    "patients": "2,000+",
+    "experience": "5+ years",
+    "consultantFee": 20,
+    "rating": 4.9,
+    "reviewsCount": 1872,
+    "image": "/assets/images/bookImage.png",
+    "description": "Dr. Isabella Stone, a dedicated general practitioner, brings a wealth of experience to Sunset Heart Institute in Ocean View, FL.",
+    "aboutMe": "Dr. Isabella Stone is a highly skilled professional who genuinely cares about her patients.",
+    "reviews": [
+      {
+        "id": 1,
+        "reviewer": "Olivia Parker",
+        "rating": 5,
+        "comment": "Dr. Isabella Stone is a knowledgeable and compassionate doctor. She made me feel very comfortable during my visit."
+      },
+      {
+        "id": 2,
+        "reviewer": "Ethan Hall",
+        "rating": 4,
+        "comment": "Verrry thorough and professional. I highly recommend Dr. Isabella Stone for eye care."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Benjamin Hayes",
+    "specialty": "Cardiologist",
+    "workingTime": "Monday-Saturday, 09:00 AM-08:00 PM",
+    "patients": "3,500+",
+    "experience": "8+ years",
+    "consultantFee": 20,
+    "rating": 4.8,
+    "reviewsCount": 2100,
+    "image": "/assets/images/signUpImage.png",
+    "description": "Dr. Benjamin Hayes is known for his expertise in heart and cardiovascular care.",
+    "aboutMe": "Dr. Benjamin Hayes has successfully treated thousands of patients with heart conditions.",
+    "reviews": [
+      {
+        "id": 1,
+        "reviewer": "Emma Johnson",
+        "rating": 4.8,
+        "comment": "Dr. Hayes explained everything clearly and helped me understand my condition."
+      },
+      {
+        "id": 2,
+        "reviewer": "Liam Brown",
+        "rating": 5,
+        "comment": "Highly experienced and empathetic. Dr. Hayes is an excellent cardiologist."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sophia Brown",
+    "specialty": "Dermatologist",
+    "workingTime": "Monday-Friday, 10:00 AM-06:00 PM",
+    "patients": "1,800+",
+    "experience": "6+ years",
+    "consultantFee": 20,
+    "rating": 4.7,
+    "reviewsCount": 1450,
+    "image": "/assets/images/bookImage.png",
+    "description": "Dr. Sophia Brown specializes in skin treatments and cosmetic dermatology.",
+    "aboutMe": "Dr. Sophia Brown offers a wide range of skincare solutions for her patients.",
+    "reviews": [
+      {
+        "id": 1,
+        "reviewer": "Sophia Moore",
+        "rating": 5,
+        "comment": "She helped me resolve a long-term skin issue. Very satisfied with her care!"
+      },
+      {
+        "id": 2,
+        "reviewer": "Lucas Miller",
+        "rating": 4.5,
+        "comment": "Great dermatologist, but the appointment was slightly delayed."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. William Johnson",
+    "specialty": "Orthopedic Surgeon",
+    "workingTime": "Monday-Friday, 07:00 AM-03:00 PM",
+    "patients": "2,200+",
+    "experience": "10+ years",
+    "consultantFee": 20,
+    "rating": 4.9,
+    "reviewsCount": 1800,
+    "image": "/assets/images/signUpImage.png",
+    "description": "Dr. William Johnson specializes in joint and bone surgeries.",
+    "aboutMe": "Dr. William Johnson is an expert in advanced orthopedic procedures.",
+    "reviews": [
+      {
+        "id": 1,
+        "reviewer": "Ella Wilson",
+        "rating": 5,
+        "comment": "He performed surgery on my knee, and I feel better than ever!"
+      },
+      {
+        "id": 2,
+        "reviewer": "Oliver Taylor",
+        "rating": 4.8,
+        "comment": "Very knowledgeable and professional. Thank you, Dr. Johnson!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Emily Davis",
+    "specialty": "Pediatrician",
+    "workingTime": "Monday-Friday, 08:00 AM-05:00 PM",
+    "patients": "1,500+",
+    "experience": "7+ years",
+    "consultantFee": 20,
+    "rating": 4.8,
+    "reviewsCount": 1300,
+    "image": "/assets/images/bookImage.png",
+    "description": "Dr. Emily Davis provides comprehensive care for children.",
+    "aboutMe": "Dr. Emily Davis is committed to ensuring the health and well-being of her young patients.",
+    "reviews": [
+      {
+        "id": 1,
+        "reviewer": "Charlotte Martinez",
+        "rating": 5,
+        "comment": "Dr. Davis is wonderful with kids and always provides clear guidance."
+      },
+      {
+        "id": 2,
+        "reviewer": "Mason Hernandez",
+        "rating": 4.7,
+        "comment": "Great doctor for kids. Highly recommend her!"
+      }
+    ]
+  }
+]
